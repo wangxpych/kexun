@@ -1,0 +1,5811 @@
+{
+  "sourceLanguage": "zh-Hans",
+  "strings": {
+    "\n未保存：\n": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "\n未保存：\n"
+          }
+        }
+      }
+    },
+    "%@ · %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ · %2$@"
+          }
+        }
+      }
+    },
+    "%@起": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@起"
+          }
+        }
+      }
+    },
+    "%@，%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@，%2$@"
+          }
+        }
+      }
+    },
+    "%@：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@：%2$@"
+          }
+        }
+      }
+    },
+    "%lld": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld"
+          }
+        }
+      }
+    },
+    "%lld 份附件无法读取，未出现在此列表。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 份附件无法读取，未出现在此列表。"
+          }
+        }
+      }
+    },
+    "%lld 条": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 条"
+          }
+        }
+      }
+    },
+    "%lld 条 · %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld 条 · %2$@"
+          }
+        }
+      }
+    },
+    "%lld 条收藏": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 条收藏"
+          }
+        }
+      }
+    },
+    "%lld 条收藏 · 随手收下，随时可寻": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 条收藏 · 随手收下，随时可寻"
+          }
+        }
+      }
+    },
+    "%lld 项筛选": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld 项筛选"
+          }
+        }
+      }
+    },
+    "PDF 中没有可定位的文字": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF 中没有可定位的文字"
+          }
+        }
+      }
+    },
+    "PDF 无法读取或需要密码，原文件已保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF 无法读取或需要密码，原文件已保留。"
+          }
+        }
+      }
+    },
+    "PDF 无法读取或需要密码；仍可查看下方已保存的识别文本。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF 无法读取或需要密码；仍可查看下方已保存的识别文本。"
+          }
+        }
+      }
+    },
+    "PDF 正文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF 正文"
+          }
+        }
+      }
+    },
+    "PDF 超过 1000 页，暂不提取文本；原文件已保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF 超过 1000 页，暂不提取文本；原文件已保留。"
+          }
+        }
+      }
+    },
+    "PDF 页码定位最多检查前 1000 页。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF 页码定位最多检查前 1000 页。"
+          }
+        }
+      }
+    },
+    "Pro 权益已恢复。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro 权益已恢复。"
+          }
+        }
+      }
+    },
+    "Pro 购买已撤销，已有数据保留；超额时仅暂停新增和回收站恢复。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro 购买已撤销，已有数据保留；超额时仅暂停新增和回收站恢复。"
+          }
+        }
+      }
+    },
+    "ZIP 偏移或长度溢出。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP 偏移或长度溢出。"
+          }
+        }
+      }
+    },
+    "ZIP 数据被截断。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP 数据被截断。"
+          }
+        }
+      }
+    },
+    "ZIP 文件名不一致。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP 文件名不一致。"
+          }
+        }
+      }
+    },
+    "ZIP 本地记录与目录不一致。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP 本地记录与目录不一致。"
+          }
+        }
+      }
+    },
+    "ZIP 目录损坏。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP 目录损坏。"
+          }
+        }
+      }
+    },
+    "ZIP 目录范围或条目数量无效。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP 目录范围或条目数量无效。"
+          }
+        }
+      }
+    },
+    "ZIP64 与经典目录不一致。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP64 与经典目录不一致。"
+          }
+        }
+      }
+    },
+    "ZIP64 定位器无效或不支持分卷。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP64 定位器无效或不支持分卷。"
+          }
+        }
+      }
+    },
+    "ZIP64 扩展字段缺失、重复或长度无效。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP64 扩展字段缺失、重复或长度无效。"
+          }
+        }
+      }
+    },
+    "ZIP64 目录被截断。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP64 目录被截断。"
+          }
+        }
+      }
+    },
+    "ZIP64 结束记录无效。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP64 结束记录无效。"
+          }
+        }
+      }
+    },
+    "ZIP64 长度溢出或包含压缩内容。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP64 长度溢出或包含压缩内容。"
+          }
+        }
+      }
+    },
+    "·": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "·"
+          }
+        }
+      }
+    },
+    "一次购买，永久解锁收藏数量限制。所有核心功能免费版均可使用。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一次购买，永久解锁收藏数量限制。所有核心功能免费版均可使用。"
+          }
+        }
+      }
+    },
+    "上一处匹配": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上一处匹配"
+          }
+        }
+      }
+    },
+    "上次成功导出": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上次成功导出"
+          }
+        }
+      }
+    },
+    "下一处匹配": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下一处匹配"
+          }
+        }
+      }
+    },
+    "下方仅为上次读取的内容，可能不是最新状态。现有文件会保留，请勿卸载应用。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下方仅为上次读取的内容，可能不是最新状态。现有文件会保留，请勿卸载应用。"
+          }
+        }
+      }
+    },
+    "不支持此 ZIP 格式，请选择可寻导出的完整备份。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不支持此 ZIP 格式，请选择可寻导出的完整备份。"
+          }
+        }
+      }
+    },
+    "不自动访问本地或私有网络地址。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不自动访问本地或私有网络地址。"
+          }
+        }
+      }
+    },
+    "不限时间": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不限时间"
+          }
+        }
+      }
+    },
+    "为保持响应，仅定位前 100 万个文本单位、最多 500 处匹配；关键词最多 32 个，每个最多 256 字符。此处数量不代表全文总数，原内容不受影响。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "为保持响应，仅定位前 100 万个文本单位、最多 500 处匹配；关键词最多 32 个，每个最多 256 字符。此处数量不代表全文总数，原内容不受影响。"
+          }
+        }
+      }
+    },
+    "也可以点击中央 + 保存链接、文字，或从照片与文件选择器导入内容。来源 App 未提供的正文或附件无法自动收集。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "也可以点击中央 + 保存链接、文字，或从照片与文件选择器导入内容。来源 App 未提供的正文或附件无法自动收集。"
+          }
+        }
+      }
+    },
+    "也可以点击资料库的“收藏”按钮 保存链接、文字，或从照片与文件选择器导入内容。来源 App 未提供的正文或附件无法自动收集。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "也可以点击资料库的“收藏”按钮 保存链接、文字，或从照片与文件选择器导入内容。来源 App 未提供的正文或附件无法自动收集。"
+          }
+        }
+      }
+    },
+    "仅回收站引用的容量是预计可释放的附件内容大小，不等于系统最终释放空间；共享附件仍被当前收藏引用时不会释放。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅回收站引用的容量是预计可释放的附件内容大小，不等于系统最终释放空间；共享附件仍被当前收藏引用时不会释放。"
+          }
+        }
+      }
+    },
+    "仅回收站引用的附件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅回收站引用的附件"
+          }
+        }
+      }
+    },
+    "仅在系统确认完整备份导出成功后记录时间，不代表外部文件仍存在或包含之后的变化。请自行保管并定期更新备份。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅在系统确认完整备份导出成功后记录时间，不代表外部文件仍存在或包含之后的变化。请自行保管并定期更新备份。"
+          }
+        }
+      }
+    },
+    "仅移除分组": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仅移除分组"
+          }
+        }
+      }
+    },
+    "仍有导入或内容处理任务，请等待结束后重试故障恢复。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仍有导入或内容处理任务，请等待结束后重试故障恢复。"
+          }
+        }
+      }
+    },
+    "仍然保存一条": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仍然保存一条"
+          }
+        }
+      }
+    },
+    "从其他 App 的系统分享选择可寻，或点击下方 + 收集链接、文字、照片和文件。之后可搜索标题、备注和已识别的文字。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从其他 App 的系统分享选择可寻，或点击下方 + 收集链接、文字、照片和文件。之后可搜索标题、备注和已识别的文字。"
+          }
+        }
+      }
+    },
+    "从其他地方收下": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从其他地方收下"
+          }
+        }
+      }
+    },
+    "从分享菜单收下，或复制链接后粘贴": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从分享菜单收下，或复制链接后粘贴"
+          }
+        }
+      }
+    },
+    "从备份建立独立资料库？": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从备份建立独立资料库？"
+          }
+        }
+      }
+    },
+    "从备份恢复": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从备份恢复"
+          }
+        }
+      }
+    },
+    "从备份进行故障恢复": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "从备份进行故障恢复"
+          }
+        }
+      }
+    },
+    "使用帮助": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用帮助"
+          }
+        }
+      }
+    },
+    "保存": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存"
+          }
+        }
+      }
+    },
+    "保存于 %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存于 %@"
+          }
+        }
+      }
+    },
+    "保存并继续": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存并继续"
+          }
+        }
+      }
+    },
+    "保存时间": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存时间"
+          }
+        }
+      }
+    },
+    "保存网页正文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存网页正文"
+          }
+        }
+      }
+    },
+    "保存链接": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存链接"
+          }
+        }
+      }
+    },
+    "保存链接后会访问该网站及其封面地址补全标题和图片，目标网站可能接收网络请求信息。图片 OCR 与 PDF 文本提取在设备上进行。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存链接后会访问该网站及其封面地址补全标题和图片，目标网站可能接收网络请求信息。图片 OCR 与 PDF 文本提取在设备上进行。"
+          }
+        }
+      }
+    },
+    "保存预览": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存预览"
+          }
+        }
+      }
+    },
+    "保留当前内容": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保留当前内容"
+          }
+        }
+      }
+    },
+    "停止剩余导入": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "停止剩余导入"
+          }
+        }
+      }
+    },
+    "先保存或放弃本次编辑，再继续刚才的操作；继续编辑会保留当前输入。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "先保存或放弃本次编辑，再继续刚才的操作；继续编辑会保留当前输入。"
+          }
+        }
+      }
+    },
+    "先尝试重新打开。仍无法读取时，可从完整备份恢复到独立资料库；旧故障目录和附件保留，不会清库。恢复只包含备份时已有的内容，不会自动找回备份之后的新增或修改。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "先尝试重新打开。仍无法读取时，可从完整备份恢复到独立资料库；旧故障目录和附件保留，不会清库。恢复只包含备份时已有的内容，不会自动找回备份之后的新增或修改。"
+          }
+        }
+      }
+    },
+    "先收下第一条内容": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "先收下第一条内容"
+          }
+        }
+      }
+    },
+    "先查看大附件和回收站。共享附件可能被多条收藏使用，回收站涉及大小不等于可以释放的空间。永久删除需要确认，删除后只能从已有备份找回。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "先查看大附件和回收站。共享附件可能被多条收藏使用，回收站涉及大小不等于可以释放的空间。永久删除需要确认，删除后只能从已有备份找回。"
+          }
+        }
+      }
+    },
+    "免费版可保存 100 条，所有核心功能均可使用。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "免费版可保存 100 条，所有核心功能均可使用。"
+          }
+        }
+      }
+    },
+    "免费版最多保存 100 条，目前还可保存 %lld 条。可删除部分收藏，或升级 Pro。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "免费版最多保存 100 条，目前还可保存 %lld 条。可删除部分收藏，或升级 Pro。"
+          }
+        }
+      }
+    },
+    "全选": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全选"
+          }
+        }
+      }
+    },
+    "全选当前结果": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全选当前结果"
+          }
+        }
+      }
+    },
+    "全部": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部"
+          }
+        }
+      }
+    },
+    "全部归档状态": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部归档状态"
+          }
+        }
+      }
+    },
+    "全部收藏": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部收藏"
+          }
+        }
+      }
+    },
+    "全部收藏夹": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部收藏夹"
+          }
+        }
+      }
+    },
+    "全部来源": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部来源"
+          }
+        }
+      }
+    },
+    "全部类型": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全部类型"
+          }
+        }
+      }
+    },
+    "共享存储未配置。请检查可寻的 App Group 签名配置；不会创建替代空库。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共享存储未配置。请检查可寻的 App Group 签名配置；不会创建替代空库。"
+          }
+        }
+      }
+    },
+    "共享存储未配置，无法恢复；请先检查 App Group 签名配置。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共享存储未配置，无法恢复；请先检查 App Group 签名配置。"
+          }
+        }
+      }
+    },
+    "共享存储正由另一项操作使用，请稍后重试；现有资料未被更改。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共享存储正由另一项操作使用，请稍后重试；现有资料未被更改。"
+          }
+        }
+      }
+    },
+    "共享存储锁不可用，请稍后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共享存储锁不可用，请稍后重试。"
+          }
+        }
+      }
+    },
+    "共享库存在同名不同内容附件，迁移停止，未覆盖。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共享库存在同名不同内容附件，迁移停止，未覆盖。"
+          }
+        }
+      }
+    },
+    "关闭": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭"
+          }
+        }
+      }
+    },
+    "关闭收集提示": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭收集提示"
+          }
+        }
+      }
+    },
+    "关闭粘贴提示": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "关闭粘贴提示"
+          }
+        }
+      }
+    },
+    "其中的收藏与回收站内容都保留，只取消分组。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "其中的收藏与回收站内容都保留，只取消分组。"
+          }
+        }
+      }
+    },
+    "内容类型": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "内容类型"
+          }
+        }
+      }
+    },
+    "写下文字": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "写下文字"
+          }
+        }
+      }
+    },
+    "写下要保存的文字": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "写下要保存的文字"
+          }
+        }
+      }
+    },
+    "分享链接": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分享链接"
+          }
+        }
+      }
+    },
+    "分享附件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "分享附件"
+          }
+        }
+      }
+    },
+    "切换布局": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "切换布局"
+          }
+        }
+      }
+    },
+    "列表": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "列表"
+          }
+        }
+      }
+    },
+    "删除的收藏会先保留在这里，可恢复或永久删除。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "删除的收藏会先保留在这里，可恢复或永久删除。"
+          }
+        }
+      }
+    },
+    "刷新": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刷新"
+          }
+        }
+      }
+    },
+    "刷新用量": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刷新用量"
+          }
+        }
+      }
+    },
+    "剪贴板可能有链接": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "剪贴板可能有链接"
+          }
+        }
+      }
+    },
+    "剪贴板可能有链接，粘贴后预览，确认再保存": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "剪贴板可能有链接，粘贴后预览，确认再保存"
+          }
+        }
+      }
+    },
+    "加载商品": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "加载商品"
+          }
+        }
+      }
+    },
+    "升级 Pro · %@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "升级 Pro · %@"
+          }
+        }
+      }
+    },
+    "升级可寻 Pro": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "升级可寻 Pro"
+          }
+        }
+      }
+    },
+    "单个附件暂支持最大 100 MB，请选择较小文件。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "单个附件暂支持最大 100 MB，请选择较小文件。"
+          }
+        }
+      }
+    },
+    "单附件最大 100 MB；照片每次最多选择 20 张，每张单独保存。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "单附件最大 100 MB；照片每次最多选择 20 张，每张单独保存。"
+          }
+        }
+      }
+    },
+    "卡片": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "卡片"
+          }
+        }
+      }
+    },
+    "原始分享文字": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "原始分享文字"
+          }
+        }
+      }
+    },
+    "取消": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消"
+          }
+        }
+      }
+    },
+    "取消多选": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消多选"
+          }
+        }
+      }
+    },
+    "取消归档": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消归档"
+          }
+        }
+      }
+    },
+    "取消星标": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取消星标"
+          }
+        }
+      }
+    },
+    "另一项导入正在进行，或存储尚未打开。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "另一项导入正在进行，或存储尚未打开。"
+          }
+        }
+      }
+    },
+    "另一项数据操作正在进行，请稍后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "另一项数据操作正在进行，请稍后重试。"
+          }
+        }
+      }
+    },
+    "只看星标": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "只看星标"
+          }
+        }
+      }
+    },
+    "可寻 %@（%@）": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可寻 %1$@（%2$@）"
+          }
+        }
+      }
+    },
+    "可寻 Pro · 永久版": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可寻 Pro · 永久版"
+          }
+        }
+      }
+    },
+    "可寻不自动同步资料。迁机或重新安装前，在数据与备份中导出完整备份，并保存到可寻之外；恢复购买只恢复权益，不会找回本机资料。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可寻不自动同步资料。迁机或重新安装前，在数据与备份中导出完整备份，并保存到可寻之外；恢复购买只恢复权益，不会找回本机资料。"
+          }
+        }
+      }
+    },
+    "可检索文本": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可检索文本"
+          }
+        }
+      }
+    },
+    "可能有链接": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "可能有链接"
+          }
+        }
+      }
+    },
+    "后台内容已有更新，你的输入仍保留。保存时会合并未冲突的修改；同一字段发生冲突时会提示，不会覆盖。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "后台内容已有更新，你的输入仍保留。保存时会合并未冲突的修改；同一字段发生冲突时会提示，不会覆盖。"
+          }
+        }
+      }
+    },
+    "商品加载失败：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "商品加载失败：%@"
+          }
+        }
+      }
+    },
+    "商品尚未加载，请联网后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "商品尚未加载，请联网后重试。"
+          }
+        }
+      }
+    },
+    "回到资料库时，仅检测剪贴板是否可能包含链接；点击系统粘贴按钮后才读取内容，确认保存后才收藏。不收集定位或通讯录，不上传收藏到分析服务。购买由 Apple 处理。导出的备份包含私人内容，请妥善保管。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回到资料库时，仅检测剪贴板是否可能包含链接；点击系统粘贴按钮后才读取内容，确认保存后才收藏。不收集定位或通讯录，不上传收藏到分析服务。购买由 Apple 处理。导出的备份包含私人内容，请妥善保管。"
+          }
+        }
+      }
+    },
+    "回收站": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回收站"
+          }
+        }
+      }
+    },
+    "回收站为空": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回收站为空"
+          }
+        }
+      }
+    },
+    "回收站涉及附件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回收站涉及附件"
+          }
+        }
+      }
+    },
+    "图片": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图片"
+          }
+        }
+      }
+    },
+    "图片支持设备端中文和英文 OCR；PDF 仅提取已有文字层。扫描 PDF 可以保存、预览和导出，暂不逐页 OCR；可以添加可搜索备注辅助找回。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "图片支持设备端中文和英文 OCR；PDF 仅提取已有文字层。扫描 PDF 可以保存、预览和导出，暂不逐页 OCR；可以添加可搜索备注辅助找回。"
+          }
+        }
+      }
+    },
+    "在 PDF 中定位：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 PDF 中定位：%@"
+          }
+        }
+      }
+    },
+    "在 Safari 或其他 App 点击系统分享，选择“可寻”。首次使用可在分享列表的“更多”中启用可寻。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在 Safari 或其他 App 点击系统分享，选择“可寻”。首次使用可在分享列表的“更多”中启用可寻。"
+          }
+        }
+      }
+    },
+    "在全部收藏中搜索": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在全部收藏中搜索"
+          }
+        }
+      }
+    },
+    "在详情输入收藏夹名称，或多选后新建并移入。每条收藏最多属于一个单层收藏夹，同名合并；移除收藏夹只取消分组，不删内容，空收藏夹不保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在详情输入收藏夹名称，或多选后新建并移入。每条收藏最多属于一个单层收藏夹，同名合并；移除收藏夹只取消分组，不删内容，空收藏夹不保留。"
+          }
+        }
+      }
+    },
+    "备份 CRC 校验失败。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份 CRC 校验失败。"
+          }
+        }
+      }
+    },
+    "备份 SHA-256 校验失败。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份 SHA-256 校验失败。"
+          }
+        }
+      }
+    },
+    "备份、迁机与导出": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份、迁机与导出"
+          }
+        }
+      }
+    },
+    "备份为空、损坏或超过 256 MB。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份为空、损坏或超过 256 MB。"
+          }
+        }
+      }
+    },
+    "备份为空或超出文件系统可寻址范围。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份为空或超出文件系统可寻址范围。"
+          }
+        }
+      }
+    },
+    "备份仅支持普通文件。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份仅支持普通文件。"
+          }
+        }
+      }
+    },
+    "备份包含未引用的文件。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份包含未引用的文件。"
+          }
+        }
+      }
+    },
+    "备份含不支持的压缩或加密条目。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份含不支持的压缩或加密条目。"
+          }
+        }
+      }
+    },
+    "备份含压缩、加密或不受支持的条目。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份含压缩、加密或不受支持的条目。"
+          }
+        }
+      }
+    },
+    "备份含未登记内容或目录不完整。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份含未登记内容或目录不完整。"
+          }
+        }
+      }
+    },
+    "备份已导出。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份已导出。"
+          }
+        }
+      }
+    },
+    "备份快照": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份快照"
+          }
+        }
+      }
+    },
+    "备份快照与清单不一致，未记录成功状态。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份快照与清单不一致，未记录成功状态。"
+          }
+        }
+      }
+    },
+    "备份快照超过安全上限。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份快照超过安全上限。"
+          }
+        }
+      }
+    },
+    "备份数据被截断。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份数据被截断。"
+          }
+        }
+      }
+    },
+    "备份文件为空，未记录成功状态。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份文件为空，未记录成功状态。"
+          }
+        }
+      }
+    },
+    "备份文件名无效或重复。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份文件名无效或重复。"
+          }
+        }
+      }
+    },
+    "备份文件路径不安全。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份文件路径不安全。"
+          }
+        }
+      }
+    },
+    "备份文件重复。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份文件重复。"
+          }
+        }
+      }
+    },
+    "备份条目无效或重复。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份条目无效或重复。"
+          }
+        }
+      }
+    },
+    "备份条目过多。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份条目过多。"
+          }
+        }
+      }
+    },
+    "备份条目重叠或 ZIP64 版本无效。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份条目重叠或 ZIP64 版本无效。"
+          }
+        }
+      }
+    },
+    "备份校验失败。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份校验失败。"
+          }
+        }
+      }
+    },
+    "备份清单缺失或记录元数据超过安全上限（128 MB）。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份清单缺失或记录元数据超过安全上限（128 MB）。"
+          }
+        }
+      }
+    },
+    "备份清单超过安全上限。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份清单超过安全上限。"
+          }
+        }
+      }
+    },
+    "备份版本或清单不受支持。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份版本或清单不受支持。"
+          }
+        }
+      }
+    },
+    "备份状态": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份状态"
+          }
+        }
+      }
+    },
+    "备份目录不完整。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份目录不完整。"
+          }
+        }
+      }
+    },
+    "备份目录不完整或 ZIP 格式不支持。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份目录不完整或 ZIP 格式不支持。"
+          }
+        }
+      }
+    },
+    "备份目标已存在，未覆盖。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份目标已存在，未覆盖。"
+          }
+        }
+      }
+    },
+    "备份累计内容超过安全上限。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份累计内容超过安全上限。"
+          }
+        }
+      }
+    },
+    "备份记录数量或 ID 无效。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份记录数量或 ID 无效。"
+          }
+        }
+      }
+    },
+    "备份记录无效。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份记录无效。"
+          }
+        }
+      }
+    },
+    "备份资料库已切换，但重新读取失败，请重试打开。旧故障目录和恢复目录均保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份资料库已切换，但重新读取失败，请重试打开。旧故障目录和恢复目录均保留。"
+          }
+        }
+      }
+    },
+    "备份附件不完整或引用冲突。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备份附件不完整或引用冲突。"
+          }
+        }
+      }
+    },
+    "备注": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "备注"
+          }
+        }
+      }
+    },
+    "复制文字": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "复制文字"
+          }
+        }
+      }
+    },
+    "复制正文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "复制正文"
+          }
+        }
+      }
+    },
+    "复制网页正文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "复制网页正文"
+          }
+        }
+      }
+    },
+    "复制链接": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "复制链接"
+          }
+        }
+      }
+    },
+    "多选": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "多选"
+          }
+        }
+      }
+    },
+    "大附件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "大附件"
+          }
+        }
+      }
+    },
+    "如何收集": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如何收集"
+          }
+        }
+      }
+    },
+    "如果照片或文件的读取权限已失效，请根据上方失败清单重新选择。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如果照片或文件的读取权限已失效，请根据上方失败清单重新选择。"
+          }
+        }
+      }
+    },
+    "存储尚未打开": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储尚未打开"
+          }
+        }
+      }
+    },
+    "存储尚未打开。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储尚未打开。"
+          }
+        }
+      }
+    },
+    "存储用量": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储用量"
+          }
+        }
+      }
+    },
+    "完成": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成"
+          }
+        }
+      }
+    },
+    "完成正文编辑": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完成正文编辑"
+          }
+        }
+      }
+    },
+    "完整备份包含收藏、备注、状态、回收站内容和原始附件，未加密，可能含私人信息，请勿公开分享。导出与恢复免费，不包含购买权益。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完整备份包含收藏、备注、状态、回收站内容和原始附件，未加密，可能含私人信息，请勿公开分享。导出与恢复免费，不包含购买权益。"
+          }
+        }
+      }
+    },
+    "完整备份可合并恢复，超出免费额度也不会截断。成功时间只表示当时导出完成，不证明外部文件仍在；资料变化后应更新备份。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完整备份可合并恢复，超出免费额度也不会截断。成功时间只表示当时导出完成，不证明外部文件仍在；资料变化后应更新备份。"
+          }
+        }
+      }
+    },
+    "完整备份已导出。请确认外部位置并妥善保管。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完整备份已导出。请确认外部位置并妥善保管。"
+          }
+        }
+      }
+    },
+    "导入完成": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导入完成"
+          }
+        }
+      }
+    },
+    "导入已取消，剩余 %lld 项未保存；已成功保存的内容保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导入已取消，剩余 %lld 项未保存；已成功保存的内容保留。"
+          }
+        }
+      }
+    },
+    "导入文件 / PDF": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导入文件 / PDF"
+          }
+        }
+      }
+    },
+    "导入资料": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导入资料"
+          }
+        }
+      }
+    },
+    "导出 Markdown 与原始附件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出 Markdown 与原始附件"
+          }
+        }
+      }
+    },
+    "导出全部收藏（含回收站）与原始附件。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出全部收藏（含回收站）与原始附件。"
+          }
+        }
+      }
+    },
+    "导出备份": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出备份"
+          }
+        }
+      }
+    },
+    "导出所选资料": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出所选资料"
+          }
+        }
+      }
+    },
+    "导出文本超过 128 MB 安全上限，未生成不完整资料包。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出文本超过 128 MB 安全上限，未生成不完整资料包。"
+          }
+        }
+      }
+    },
+    "导出普通 Markdown 文本、阅读索引和原始附件，保留正文、备注、网址、状态及识别文本，离开可寻也可阅读。包含回收站内容，未加密，请勿公开分享。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出普通 Markdown 文本、阅读索引和原始附件，保留正文、备注、网址、状态及识别文本，离开可寻也可阅读。包含回收站内容，未加密，请勿公开分享。"
+          }
+        }
+      }
+    },
+    "导出未完成：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出未完成：%@"
+          }
+        }
+      }
+    },
+    "导出此条资料": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出此条资料"
+          }
+        }
+      }
+    },
+    "导出索引超过 32 MB 安全上限。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出索引超过 32 MB 安全上限。"
+          }
+        }
+      }
+    },
+    "导出资料": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出资料"
+          }
+        }
+      }
+    },
+    "导出选中的 %lld 条收藏及其原始附件。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出选中的 %lld 条收藏及其原始附件。"
+          }
+        }
+      }
+    },
+    "导出附件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "导出附件"
+          }
+        }
+      }
+    },
+    "封面不是图片。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "封面不是图片。"
+          }
+        }
+      }
+    },
+    "封面补全失败，已保留链接与已获取的标题。可重试。\n": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "封面补全失败，已保留链接与已获取的标题。可重试。\n"
+          }
+        }
+      }
+    },
+    "将删除这条收藏及不再被其他收藏引用的附件。此操作不可撤销；其他收藏不受影响。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将删除这条收藏及不再被其他收藏引用的附件。此操作不可撤销；其他收藏不受影响。"
+          }
+        }
+      }
+    },
+    "将删除这条收藏及不再被其他收藏引用的附件，未保存的修改也会丢弃。此操作不可撤销；其他收藏不受影响。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将删除这条收藏及不再被其他收藏引用的附件，未保存的修改也会丢弃。此操作不可撤销；其他收藏不受影响。"
+          }
+        }
+      }
+    },
+    "将所选 %lld 条移入回收站？": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将所选 %lld 条移入回收站？"
+          }
+        }
+      }
+    },
+    "尚未保存网页正文；当前链接不等于原文备份。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "尚未保存网页正文；当前链接不等于原文备份。"
+          }
+        }
+      }
+    },
+    "尚未记录成功导出的完整备份。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "尚未记录成功导出的完整备份。"
+          }
+        }
+      }
+    },
+    "已保存 %lld 项。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已保存 %lld 项。"
+          }
+        }
+      }
+    },
+    "已保存的内容会保留。正在复制的文件需等待安全结束后停止，不会继续保存剩余项目。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已保存的内容会保留。正在复制的文件需等待安全结束后停止，不会继续保存剩余项目。"
+          }
+        }
+      }
+    },
+    "已保存的网页正文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已保存的网页正文"
+          }
+        }
+      }
+    },
+    "已停止，剩余 %lld 张未保存。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已停止，剩余 %lld 张未保存。"
+          }
+        }
+      }
+    },
+    "已停止，后续 %lld 张未保存。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已停止，后续 %lld 张未保存。"
+          }
+        }
+      }
+    },
+    "已取消导出，原附件仍保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已取消导出，原附件仍保留。"
+          }
+        }
+      }
+    },
+    "已取消导出，未保存备份文件。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已取消导出，未保存备份文件。"
+          }
+        }
+      }
+    },
+    "已取消导出，未更新完整备份时间。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已取消导出，未更新完整备份时间。"
+          }
+        }
+      }
+    },
+    "已取消导出，没有更新完整备份时间。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已取消导出，没有更新完整备份时间。"
+          }
+        }
+      }
+    },
+    "已取消购买。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已取消购买。"
+          }
+        }
+      }
+    },
+    "已导入的资料不会删除。放弃后将清除本次重试清单，未保存项目需要重新选择。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已导入的资料不会删除。放弃后将清除本次重试清单，未保存项目需要重新选择。"
+          }
+        }
+      }
+    },
+    "已归档": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已归档"
+          }
+        }
+      }
+    },
+    "已归档的内容仍可在资料库或全局搜索中找到。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已归档的内容仍可在资料库或全局搜索中找到。"
+          }
+        }
+      }
+    },
+    "已有资料仍可查看、搜索、编辑和导出。升级后请重新提交，本次内容不会自动保存。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已有资料仍可查看、搜索、编辑和导出。升级后请重新提交，本次内容不会自动保存。"
+          }
+        }
+      }
+    },
+    "已永久解锁收藏数量限制": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已永久解锁收藏数量限制"
+          }
+        }
+      }
+    },
+    "已经导入的资料会保留；停止只影响尚未保存的项目。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已经导入的资料会保留；停止只影响尚未保存的项目。"
+          }
+        }
+      }
+    },
+    "已解锁 Pro，收藏数量不再受限。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已解锁 Pro，收藏数量不再受限。"
+          }
+        }
+      }
+    },
+    "已选 %lld 条": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已选 %lld 条"
+          }
+        }
+      }
+    },
+    "已选择": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "已选择"
+          }
+        }
+      }
+    },
+    "布局": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "布局"
+          }
+        }
+      }
+    },
+    "应用不主动读取剪贴板，不收集定位或通讯录，不上传收藏到分析服务。购买由 Apple 处理。导出的备份包含私人内容，请妥善保管。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "应用不主动读取剪贴板，不收集定位或通讯录，不上传收藏到分析服务。购买由 Apple 处理。导出的备份包含私人内容，请妥善保管。"
+          }
+        }
+      }
+    },
+    "归档": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "归档"
+          }
+        }
+      }
+    },
+    "归档状态": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "归档状态"
+          }
+        }
+      }
+    },
+    "当前 %lld 条": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前 %lld 条"
+          }
+        }
+      }
+    },
+    "当前已保存内容中没有可定位的匹配。内容可能已更新，或命中位于定位上限之外。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前已保存内容中没有可定位的匹配。内容可能已更新，或命中位于定位上限之外。"
+          }
+        }
+      }
+    },
+    "当前收藏": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前收藏"
+          }
+        }
+      }
+    },
+    "当前有 %lld 条收藏，免费版最多 100 条。可减少本次选择、删除不需要的内容，或升级 Pro。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前有 %lld 条收藏，免费版最多 100 条。可减少本次选择、删除不需要的内容，或升级 Pro。"
+          }
+        }
+      }
+    },
+    "当前未保存的正文和标题将被替换，收藏夹保持不变。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前未保存的正文和标题将被替换，收藏夹保持不变。"
+          }
+        }
+      }
+    },
+    "当前资料与上次备份快照一致": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前资料与上次备份快照一致"
+          }
+        }
+      }
+    },
+    "当前附件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "当前附件"
+          }
+        }
+      }
+    },
+    "恢复会合并数据，不清空现有资料；超过 100 条仍可完整恢复。免费版超额后暂停普通新增和回收站恢复，已有资料仍可查看、编辑、搜索与导出。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复会合并数据，不清空现有资料；超过 100 条仍可完整恢复。免费版超额后暂停普通新增和回收站恢复，已有资料仍可查看、编辑、搜索与导出。"
+          }
+        }
+      }
+    },
+    "恢复完成：新增 %lld 条（其中冲突保留 %lld 条），跳过 %lld 条相同记录。共处理 %lld 条，已有内容未被覆盖。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复完成：新增 %1$lld 条（其中冲突保留 %2$lld 条），跳过 %3$lld 条相同记录。共处理 %4$lld 条，已有内容未被覆盖。"
+          }
+        }
+      }
+    },
+    "恢复所选": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复所选"
+          }
+        }
+      }
+    },
+    "恢复收藏": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复收藏"
+          }
+        }
+      }
+    },
+    "恢复数据库完整性检查失败，未切换资料库。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复数据库完整性检查失败，未切换资料库。"
+          }
+        }
+      }
+    },
+    "恢复文件同步失败，请稍后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复文件同步失败，请稍后重试。"
+          }
+        }
+      }
+    },
+    "恢复未完成：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复未完成：%@"
+          }
+        }
+      }
+    },
+    "恢复校验记录损坏，未切换资料库。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复校验记录损坏，未切换资料库。"
+          }
+        }
+      }
+    },
+    "恢复校验记录身份不一致，未切换资料库。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复校验记录身份不一致，未切换资料库。"
+          }
+        }
+      }
+    },
+    "恢复目录不安全，未写入恢复副本。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复目录不安全，未写入恢复副本。"
+          }
+        }
+      }
+    },
+    "恢复目录含不安全链接。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复目录含不安全链接。"
+          }
+        }
+      }
+    },
+    "恢复目录含不支持的文件。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复目录含不支持的文件。"
+          }
+        }
+      }
+    },
+    "恢复记录数量与校验结果不一致，未切换资料库。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复记录数量与校验结果不一致，未切换资料库。"
+          }
+        }
+      }
+    },
+    "恢复购买": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复购买"
+          }
+        }
+      }
+    },
+    "恢复购买不恢复收藏资料。永久版不包含未来另行收费的云服务或 AI 服务。本地容量仍受设备空间与导入上限约束。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复购买不恢复收藏资料。永久版不包含未来另行收费的云服务或 AI 服务。本地容量仍受设备空间与导入上限约束。"
+          }
+        }
+      }
+    },
+    "恢复购买仅恢复 Pro 解锁权益，不恢复收藏资料。找回资料请使用“数据与备份”。永久版解锁收藏条数，不包含未来另行收费的云服务或 AI 服务。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复购买仅恢复 Pro 解锁权益，不恢复收藏资料。找回资料请使用“数据与备份”。永久版解锁收藏条数，不包含未来另行收费的云服务或 AI 服务。"
+          }
+        }
+      }
+    },
+    "恢复购买失败，已有权益保持不变：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复购买失败，已有权益保持不变：%@"
+          }
+        }
+      }
+    },
+    "恢复资料不完整，未创建替代空库。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复资料不完整，未创建替代空库。"
+          }
+        }
+      }
+    },
+    "恢复资料的附件校验失败，旧资料库未被切换。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复资料的附件校验失败，旧资料库未被切换。"
+          }
+        }
+      }
+    },
+    "恢复资料目录不安全，未打开替代资料库。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复资料目录不安全，未打开替代资料库。"
+          }
+        }
+      }
+    },
+    "恢复附件目录缺失或不安全。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恢复附件目录缺失或不安全。"
+          }
+        }
+      }
+    },
+    "打开原文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开原文"
+          }
+        }
+      }
+    },
+    "打开回收站": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "打开回收站"
+          }
+        }
+      }
+    },
+    "扫描件、字体编码或内容差异可能导致无法定位。关闭后仍可查看已保存的识别文本；这里不会新增 OCR。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "扫描件、字体编码或内容差异可能导致无法定位。关闭后仍可查看已保存的识别文本；这里不会新增 OCR。"
+          }
+        }
+      }
+    },
+    "批量保存后查看报告，可在当前页面重试未保存项目；成功项不会重复保存。离开收集页面后不保留重试清单，源权限失效时需重新选择。主动跳过的重复链接不算失败。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "批量保存后查看报告，可在当前页面重试未保存项目；成功项不会重复保存。离开收集页面后不保留重试清单，源权限失效时需重新选择。主动跳过的重复链接不算失败。"
+          }
+        }
+      }
+    },
+    "找到 %lld 条": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "找到 %lld 条"
+          }
+        }
+      }
+    },
+    "找回与整理": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "找回与整理"
+          }
+        }
+      }
+    },
+    "按实际文件大小统计被收藏引用的本地附件，共享附件只计一次。不含数据库、临时文件和系统占用；回收站中的资料不会自动删除。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按实际文件大小统计被收藏引用的本地附件，共享附件只计一次。不含数据库、临时文件和系统占用；回收站中的资料不会自动删除。"
+          }
+        }
+      }
+    },
+    "按本地实际附件大小从大到小排列，同一附件只列一次。打开所属收藏后，使用已有删除确认；这里不会删除任何内容。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按本地实际附件大小从大到小排列，同一附件只列一次。打开所属收藏后，使用已有删除确认；这里不会删除任何内容。"
+          }
+        }
+      }
+    },
+    "按需联网提取公开网页的纯文本，保存后可离线阅读和搜索。不含图片、样式或视频，不保证完整；登录、付费及部分动态网页不支持。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按需联网提取公开网页的纯文本，保存后可离线阅读和搜索。不含图片、样式或视频，不保证完整；登录、付费及部分动态网页不支持。"
+          }
+        }
+      }
+    },
+    "排序": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "排序"
+          }
+        }
+      }
+    },
+    "搜索后打开收藏，可查看命中字段、上下文与上下处；文字型 PDF 可打开原文件定位页码。定位有大小及命中数量上限，达到上限会提示。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索后打开收藏，可查看命中字段、上下文与上下处；文字型 PDF 可打开原文件定位页码。定位有大小及命中数量上限，达到上限会提示。"
+          }
+        }
+      }
+    },
+    "搜索定位": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索定位"
+          }
+        }
+      }
+    },
+    "搜索收藏": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索收藏"
+          }
+        }
+      }
+    },
+    "搜索收藏（包含归档）": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索收藏（包含归档）"
+          }
+        }
+      }
+    },
+    "搜索默认覆盖全部未删除收藏，包括已归档内容。多个词用空格分开时需要全部命中；可按类型、收藏夹等进一步筛选。回收站需单独进入。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "搜索默认覆盖全部未删除收藏，包括已归档内容。多个词用空格分开时需要全部命中；可按类型、收藏夹等进一步筛选。回收站需单独进入。"
+          }
+        }
+      }
+    },
+    "操作": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "操作"
+          }
+        }
+      }
+    },
+    "操作未完成": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "操作未完成"
+          }
+        }
+      }
+    },
+    "收下内容与失败重试": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收下内容与失败重试"
+          }
+        }
+      }
+    },
+    "收藏": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏"
+          }
+        }
+      }
+    },
+    "收藏内容": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏内容"
+          }
+        }
+      }
+    },
+    "收藏及附件保存在本机。本版本不提供跨设备同步，也不建立可寻账号。换机或重新安装前，请在“数据与备份”中导出并保存到可寻之外；恢复购买不会找回本地资料。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏及附件保存在本机。本版本不提供跨设备同步，也不建立可寻账号。换机或重新安装前，请在“数据与备份”中导出并保存到可寻之外；恢复购买不会找回本地资料。"
+          }
+        }
+      }
+    },
+    "收藏夹": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏夹"
+          }
+        }
+      }
+    },
+    "收藏夹名称": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏夹名称"
+          }
+        }
+      }
+    },
+    "收藏夹名称最多 40 个字符。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏夹名称最多 40 个字符。"
+          }
+        }
+      }
+    },
+    "收藏夹名称须为 1 至 40 个字符，且首尾不能为空格。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏夹名称须为 1 至 40 个字符，且首尾不能为空格。"
+          }
+        }
+      }
+    },
+    "收藏夹名称（留空为未分组）": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏夹名称（留空为未分组）"
+          }
+        }
+      }
+    },
+    "收藏已发生变化，请刷新后再操作。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏已发生变化，请刷新后再操作。"
+          }
+        }
+      }
+    },
+    "收藏数据库缺失，但附件仍在。已保留文件，请从完整备份恢复或联系支持；不会创建空库清理附件。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏数据库缺失，但附件仍在。已保留文件，请从完整备份恢复或联系支持；不会创建空库清理附件。"
+          }
+        }
+      }
+    },
+    "收藏标题不能为空，版本必须有效。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏标题不能为空，版本必须有效。"
+          }
+        }
+      }
+    },
+    "收藏版本无法继续更新，本次操作未保存。原内容仍可查看和导出，请保留备份。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏版本无法继续更新，本次操作未保存。原内容仍可查看和导出，请保留备份。"
+          }
+        }
+      }
+    },
+    "收藏记录仍保留。请重试，或从完整备份恢复缺失附件。不会自动删除这条收藏。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏记录仍保留。请重试，或从完整备份恢复缺失附件。不会自动删除这条收藏。"
+          }
+        }
+      }
+    },
+    "收藏记录元数据超过当前备份安全上限（128 MB），未导出不可恢复的备份。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏记录元数据超过当前备份安全上限（128 MB），未导出不可恢复的备份。"
+          }
+        }
+      }
+    },
+    "收藏详情": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收藏详情"
+          }
+        }
+      }
+    },
+    "收起键盘": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收起键盘"
+          }
+        }
+      }
+    },
+    "收集箱": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收集箱"
+          }
+        }
+      }
+    },
+    "收集箱为空": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "收集箱为空"
+          }
+        }
+      }
+    },
+    "放弃修改并继续": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放弃修改并继续"
+          }
+        }
+      }
+    },
+    "放弃未保存项目": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放弃未保存项目"
+          }
+        }
+      }
+    },
+    "放弃未保存项目并继续": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放弃未保存项目并继续"
+          }
+        }
+      }
+    },
+    "放弃本次编辑并载入": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "放弃本次编辑并载入"
+          }
+        }
+      }
+    },
+    "故障恢复完成：已载入备份中的 %lld 条内容（含回收站）。旧故障资料库及附件原地保留，备份之后的内容不会自动出现在新资料库中。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "故障恢复完成：已载入备份中的 %lld 条内容（含回收站）。旧故障资料库及附件原地保留，备份之后的内容不会自动出现在新资料库中。"
+          }
+        }
+      }
+    },
+    "故障恢复未完成：%@ 原资料目录保留，请勿卸载应用。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "故障恢复未完成：%@ 原资料目录保留，请勿卸载应用。"
+          }
+        }
+      }
+    },
+    "数据": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "数据"
+          }
+        }
+      }
+    },
+    "数据与备份": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "数据与备份"
+          }
+        }
+      }
+    },
+    "数据库未打开": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "数据库未打开"
+          }
+        }
+      }
+    },
+    "数据操作失败：%@。请重试，现有数据不会被清空。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "数据操作失败：%@。请重试，现有数据不会被清空。"
+          }
+        }
+      }
+    },
+    "数据来自更新版本，请升级可寻后再打开。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "数据来自更新版本，请升级可寻后再打开。"
+          }
+        }
+      }
+    },
+    "文件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文件"
+          }
+        }
+      }
+    },
+    "文件名": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文件名"
+          }
+        }
+      }
+    },
+    "文件在备份期间发生变化，请重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文件在备份期间发生变化，请重试。"
+          }
+        }
+      }
+    },
+    "文件已导出，但本机备份记录未更新：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文件已导出，但本机备份记录未更新：%@"
+          }
+        }
+      }
+    },
+    "文字": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文字"
+          }
+        }
+      }
+    },
+    "文字收藏可以修改正文，其他类型的原始分享文字和附件保持不变。修改后选择保存；关闭或执行其他动作前可保存、放弃或继续编辑。当前页面保护不等于系统终止后的草稿恢复。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文字收藏可以修改正文，其他类型的原始分享文字和附件保持不变。修改后选择保存；关闭或执行其他动作前可保存、放弃或继续编辑。当前页面保护不等于系统终止后的草稿恢复。"
+          }
+        }
+      }
+    },
+    "文本提取失败": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文本提取失败"
+          }
+        }
+      }
+    },
+    "新建收藏夹并移入": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新建收藏夹并移入"
+          }
+        }
+      }
+    },
+    "新收藏": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新收藏"
+          }
+        }
+      }
+    },
+    "无法保存处理状态：%@ 自动处理已暂停，原内容仍可查看和导出。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法保存处理状态：%@ 自动处理已暂停，原内容仍可查看和导出。"
+          }
+        }
+      }
+    },
+    "无法保护资料库会话，请稍后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法保护资料库会话，请稍后重试。"
+          }
+        }
+      }
+    },
+    "无法切换恢复资料库，旧资料库仍保留，请重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法切换恢复资料库，旧资料库仍保留，请重试。"
+          }
+        }
+      }
+    },
+    "无法创建 ZIP 目录，请检查剩余空间。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法创建 ZIP 目录，请检查剩余空间。"
+          }
+        }
+      }
+    },
+    "无法创建备份，请检查剩余空间。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法创建备份，请检查剩余空间。"
+          }
+        }
+      }
+    },
+    "无法创建恢复目录，请检查存储空间。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法创建恢复目录，请检查存储空间。"
+          }
+        }
+      }
+    },
+    "无法创建独立恢复目录，未覆盖已有目录。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法创建独立恢复目录，未覆盖已有目录。"
+          }
+        }
+      }
+    },
+    "无法创建附件副本，请检查存储空间。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法创建附件副本，请检查存储空间。"
+          }
+        }
+      }
+    },
+    "无法可靠解码网页正文，原链接已保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法可靠解码网页正文，原链接已保留。"
+          }
+        }
+      }
+    },
+    "无法同步恢复文件，请检查存储空间。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法同步恢复文件，请检查存储空间。"
+          }
+        }
+      }
+    },
+    "无法导入所选内容。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法导入所选内容。"
+          }
+        }
+      }
+    },
+    "无法导入所选照片。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法导入所选照片。"
+          }
+        }
+      }
+    },
+    "无法展开备份，请检查存储空间。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法展开备份，请检查存储空间。"
+          }
+        }
+      }
+    },
+    "无法打开原文，请复制链接后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法打开原文，请复制链接后重试。"
+          }
+        }
+      }
+    },
+    "无法打开数据库": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法打开数据库"
+          }
+        }
+      }
+    },
+    "无法校验恢复目录。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法校验恢复目录。"
+          }
+        }
+      }
+    },
+    "无法检查附件导入状态。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法检查附件导入状态。"
+          }
+        }
+      }
+    },
+    "无法解析网址，请联网后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法解析网址，请联网后重试。"
+          }
+        }
+      }
+    },
+    "无法读取所选照片。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法读取所选照片。"
+          }
+        }
+      }
+    },
+    "无法锁定共享存储，请稍后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法锁定共享存储，请稍后重试。"
+          }
+        }
+      }
+    },
+    "无法锁定附件存储。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法锁定附件存储。"
+          }
+        }
+      }
+    },
+    "无法锁定附件导入。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "无法锁定附件导入。"
+          }
+        }
+      }
+    },
+    "旧库附件校验失败，迁移已停止；旧数据保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "旧库附件校验失败，迁移已停止；旧数据保留。"
+          }
+        }
+      }
+    },
+    "旧故障目录原地保留。校验成功后才切换到备份资料库；备份之后的内容不会自动合并。需要足够的空间保存恢复副本。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "旧故障目录原地保留。校验成功后才切换到备份资料库；备份之后的内容不会自动合并。需要足够的空间保存恢复副本。"
+          }
+        }
+      }
+    },
+    "星标": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "星标"
+          }
+        }
+      }
+    },
+    "暂无可读取的附件。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂无可读取的附件。"
+          }
+        }
+      }
+    },
+    "暂无收藏": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂无收藏"
+          }
+        }
+      }
+    },
+    "暂时不用": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂时不用"
+          }
+        }
+      }
+    },
+    "暂时无法定位 PDF": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂时无法定位 PDF"
+          }
+        }
+      }
+    },
+    "暂时无法确认收藏数量": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂时无法确认收藏数量"
+          }
+        }
+      }
+    },
+    "暂时无法获取 Pro 商品，请稍后重试。已有权益不受影响。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂时无法获取 Pro 商品，请稍后重试。已有权益不受影响。"
+          }
+        }
+      }
+    },
+    "暂时无法读取资料": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂时无法读取资料"
+          }
+        }
+      }
+    },
+    "暂时无法验证购买，已有权益保持不变，请稍后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂时无法验证购买，已有权益保持不变，请稍后重试。"
+          }
+        }
+      }
+    },
+    "暂未取得新的购买验证结果，已有 Pro 权益保持不变。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "暂未取得新的购买验证结果，已有 Pro 权益保持不变。"
+          }
+        }
+      }
+    },
+    "更多": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更多"
+          }
+        }
+      }
+    },
+    "更新未完成，之前保存的正文仍保留：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更新未完成，之前保存的正文仍保留：%@"
+          }
+        }
+      }
+    },
+    "更新网页正文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更新网页正文"
+          }
+        }
+      }
+    },
+    "替换内容": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "替换内容"
+          }
+        }
+      }
+    },
+    "替换当前分享内容？": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "替换当前分享内容？"
+          }
+        }
+      }
+    },
+    "最多 40 个字符。同名收藏夹会合并；每条收藏属于一个收藏夹，不包含子文件夹。空收藏夹不保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最多 40 个字符。同名收藏夹会合并；每条收藏属于一个收藏夹，不包含子文件夹。空收藏夹不保留。"
+          }
+        }
+      }
+    },
+    "最早保存": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最早保存"
+          }
+        }
+      }
+    },
+    "最早保存 ↑": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最早保存 ↑"
+          }
+        }
+      }
+    },
+    "最近 30 天": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近 30 天"
+          }
+        }
+      }
+    },
+    "最近 7 天": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近 7 天"
+          }
+        }
+      }
+    },
+    "最近保存": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近保存"
+          }
+        }
+      }
+    },
+    "最近保存 ↓": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近保存 ↓"
+          }
+        }
+      }
+    },
+    "最近收下": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "最近收下"
+          }
+        }
+      }
+    },
+    "有 %lld 份附件暂时无法读取，未计入占用。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有 %lld 份附件暂时无法读取，未计入占用。"
+          }
+        }
+      }
+    },
+    "有未保存的修改，关闭前可选择保存或放弃。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有未保存的修改，关闭前可选择保存或放弃。"
+          }
+        }
+      }
+    },
+    "有未保存的内容": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有未保存的内容"
+          }
+        }
+      }
+    },
+    "有资料变化尚未包含在上次备份中": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有资料变化尚未包含在上次备份中"
+          }
+        }
+      }
+    },
+    "未保存项目": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未保存项目"
+          }
+        }
+      }
+    },
+    "未保存项目可在当前导入页面重试，成功项不会重复保存。请先重试或明确放弃清单，再选择下一批或离开；离开后不保留重试清单，源权限失效时需重新选择。分享中主动跳过的项目不算失败，也不会进入重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未保存项目可在当前导入页面重试，成功项不会重复保存。请先重试或明确放弃清单，再选择下一批或离开；离开后不保留重试清单，源权限失效时需重新选择。分享中主动跳过的项目不算失败，也不会进入重试。"
+          }
+        }
+      }
+    },
+    "未分组": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未分组"
+          }
+        }
+      }
+    },
+    "未分组（可填写收藏夹）": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未分组（可填写收藏夹）"
+          }
+        }
+      }
+    },
+    "未完成操作": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未完成操作"
+          }
+        }
+      }
+    },
+    "未归档": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未归档"
+          }
+        }
+      }
+    },
+    "未找到可可靠保存的公开正文；此页可能需要登录、动态加载，或暂不支持。原链接已保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未找到可可靠保存的公开正文；此页可能需要登录、动态加载，或暂不支持。原链接已保留。"
+          }
+        }
+      }
+    },
+    "未找到可恢复的 Pro 购买，请确认使用购买时的 Apple 账户。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未找到可恢复的 Pro 购买，请确认使用购买时的 Apple 账户。"
+          }
+        }
+      }
+    },
+    "未找到有效的 HTTP 或 HTTPS 链接；如果要保存纯文字，请切换到文字。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未找到有效的 HTTP 或 HTTPS 链接；如果要保存纯文字，请切换到文字。"
+          }
+        }
+      }
+    },
+    "未提供": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未提供"
+          }
+        }
+      }
+    },
+    "未识别到文字，仍可通过标题和备注查找。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未识别到文字，仍可通过标题和备注查找。"
+          }
+        }
+      }
+    },
+    "未选择": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未选择"
+          }
+        }
+      }
+    },
+    "本次备份超过 256 MB，暂无法导出。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本次备份超过 256 MB，暂无法导出。"
+          }
+        }
+      }
+    },
+    "本次已导入 %lld 项，已保存到资料库。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本次已导入 %lld 项，已保存到资料库。"
+          }
+        }
+      }
+    },
+    "本次未保存的原因": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本次未保存的原因"
+          }
+        }
+      }
+    },
+    "本次还有 %lld 项未保存；重试不会重复保存成功项。此清单只在当前收集页面保留。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本次还有 %lld 项未保存；重试不会重复保存成功项。此清单只在当前收集页面保留。"
+          }
+        }
+      }
+    },
+    "本次选择 %lld 项，剩余免费额度 %lld 条。请减少选择后重试，或升级 Pro。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本次选择 %1$lld 项，剩余免费额度 %2$lld 条。请减少选择后重试，或升级 Pro。"
+          }
+        }
+      }
+    },
+    "本版本不自动跨设备同步。换机或重新安装前，请将备份保存到可寻之外；仅恢复购买无法找回资料。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本版本不自动跨设备同步。换机或重新安装前，请将备份保存到可寻之外；仅恢复购买无法找回资料。"
+          }
+        }
+      }
+    },
+    "来源": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "来源"
+          }
+        }
+      }
+    },
+    "来源 App 只有“复制链接”时，可复制后回到资料库。检测到可能的链接会显示轻提示；点击系统粘贴按钮，检查标题、来源和收藏夹后保存。提示未出现时，也能从“收藏 → 保存链接”使用系统粘贴。不会自动读取或保存剪贴板内容。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "来源 App 只有“复制链接”时，可复制后回到资料库。检测到可能的链接会显示轻提示；点击系统粘贴按钮，检查标题、来源和收藏夹后保存。提示未出现时，也能从“收藏 → 保存链接”使用系统粘贴。不会自动读取或保存剪贴板内容。"
+          }
+        }
+      }
+    },
+    "来源与时间": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "来源与时间"
+          }
+        }
+      }
+    },
+    "来源未及时提供内容，已停止等待。请重试，或返回来源 App 下载完成后再分享。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "来源未及时提供内容，已停止等待。请重试，或返回来源 App 下载完成后再分享。"
+          }
+        }
+      }
+    },
+    "来源未提供有效内容。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "来源未提供有效内容。"
+          }
+        }
+      }
+    },
+    "查看大附件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "查看大附件"
+          }
+        }
+      }
+    },
+    "查看已保存资料": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "查看已保存资料"
+          }
+        }
+      }
+    },
+    "查看已有收藏": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "查看已有收藏"
+          }
+        }
+      }
+    },
+    "标题": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "标题"
+          }
+        }
+      }
+    },
+    "标题（选填）": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "标题（选填）"
+          }
+        }
+      }
+    },
+    "正在保存本地副本…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在保存本地副本…"
+          }
+        }
+      }
+    },
+    "正在保存网页正文…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在保存网页正文…"
+          }
+        }
+      }
+    },
+    "正在停止，请稍候…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在停止，请稍候…"
+          }
+        }
+      }
+    },
+    "正在准备并校验资料包…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在准备并校验资料包…"
+          }
+        }
+      }
+    },
+    "正在准备附件…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在准备附件…"
+          }
+        }
+      }
+    },
+    "正在处理，请勿关闭…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在处理，请勿关闭…"
+          }
+        }
+      }
+    },
+    "正在定位关键词…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在定位关键词…"
+          }
+        }
+      }
+    },
+    "正在导入": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在导入"
+          }
+        }
+      }
+    },
+    "正在提取文本…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在提取文本…"
+          }
+        }
+      }
+    },
+    "正在整理附件存储，请稍后重试导入。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在整理附件存储，请稍后重试导入。"
+          }
+        }
+      }
+    },
+    "正在查找…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在查找…"
+          }
+        }
+      }
+    },
+    "正在统计…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在统计…"
+          }
+        }
+      }
+    },
+    "正在补全链接信息…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在补全链接信息…"
+          }
+        }
+      }
+    },
+    "正在读取实际文件大小…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在读取实际文件大小…"
+          }
+        }
+      }
+    },
+    "正在读取本地 PDF…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在读取本地 PDF…"
+          }
+        }
+      }
+    },
+    "正在读取结果…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正在读取结果…"
+          }
+        }
+      }
+    },
+    "正文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正文"
+          }
+        }
+      }
+    },
+    "正文不能为空，请输入内容后保存。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正文不能为空，请输入内容后保存。"
+          }
+        }
+      }
+    },
+    "正文副本不含原网页图片、样式或视频，也不保证完整。登录、付费及部分动态网页不支持；失败时仍保留链接，可自行粘贴文字另存。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正文副本不含原网页图片、样式或视频，也不保证完整。登录、付费及部分动态网页不支持；失败时仍保留链接，可自行粘贴文字另存。"
+          }
+        }
+      }
+    },
+    "正文未保存：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正文未保存：%@"
+          }
+        }
+      }
+    },
+    "此地址不自动联网补全，原内容已保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此地址不自动联网补全，原内容已保留。"
+          }
+        }
+      }
+    },
+    "此地址未返回 HTML 网页，原链接已保留；文件请通过文件入口导入。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此地址未返回 HTML 网页，原链接已保留；文件请通过文件入口导入。"
+          }
+        }
+      }
+    },
+    "此格式支持保存与导出，暂不提取文本。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此格式支持保存与导出，暂不提取文本。"
+          }
+        }
+      }
+    },
+    "此购买已撤销，已有收藏仍可查看、搜索和导出。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此购买已撤销，已有收藏仍可查看、搜索和导出。"
+          }
+        }
+      }
+    },
+    "此页包含登录或订阅限制，暂不保存正文；原链接已保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此页包含登录或订阅限制，暂不保存正文；原链接已保留。"
+          }
+        }
+      }
+    },
+    "比较收藏内容与状态，不代表重新校验原始附件或外部备份。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "比较收藏内容与状态，不代表重新校验原始附件或外部备份。"
+          }
+        }
+      }
+    },
+    "永久删除": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "永久删除"
+          }
+        }
+      }
+    },
+    "永久删除 %lld 条收藏及其无引用附件？此操作不可撤销。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "永久删除 %lld 条收藏及其无引用附件？此操作不可撤销。"
+          }
+        }
+      }
+    },
+    "永久删除所选": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "永久删除所选"
+          }
+        }
+      }
+    },
+    "永久删除这条收藏？": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "永久删除这条收藏？"
+          }
+        }
+      }
+    },
+    "没有可处理内容。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有可处理内容。"
+          }
+        }
+      }
+    },
+    "没有找到内容": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "没有找到内容"
+          }
+        }
+      }
+    },
+    "添加内容": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "添加内容"
+          }
+        }
+      }
+    },
+    "清单只在本次导入页面保留。如果来源权限失效，请明确放弃此清单后重新选择。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清单只在本次导入页面保留。如果来源权限失效，请明确放弃此清单后重新选择。"
+          }
+        }
+      }
+    },
+    "清空回收站": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "清空回收站"
+          }
+        }
+      }
+    },
+    "点击“收藏”保存链接、文字、照片或文件。收藏会保存在本机。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击“收藏”保存链接、文字、照片或文件。收藏会保存在本机。"
+          }
+        }
+      }
+    },
+    "点击下方 + 保存链接、文字、照片或文件。收藏会保存在本机。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击下方 + 保存链接、文字、照片或文件。收藏会保存在本机。"
+          }
+        }
+      }
+    },
+    "点击下方 + 收下内容，或到回收站恢复已有资料。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击下方 + 收下内容，或到回收站恢复已有资料。"
+          }
+        }
+      }
+    },
+    "点击中央 +，或在其他 App 的系统分享中选择可寻。照片和文件会复制到本机；分享来源未提供的内容无法自动收集。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击中央 +，或在其他 App 的系统分享中选择可寻。照片和文件会复制到本机；分享来源未提供的内容无法自动收集。"
+          }
+        }
+      }
+    },
+    "点击中央 +，选择保存链接、写下文字、选择照片或导入文件。链接和文字编辑后保存；照片和文件选完即复制到本机，结果页点击完成或查看已保存资料，无需再次保存。也可在其他 App 的系统分享中选择可寻。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击中央 +，选择保存链接、写下文字、选择照片或导入文件。链接和文字编辑后保存；照片和文件选完即复制到本机，结果页点击完成或查看已保存资料，无需再次保存。也可在其他 App 的系统分享中选择可寻。"
+          }
+        }
+      }
+    },
+    "点击系统粘贴按钮后才读取剪贴板；保存前可以检查和修改。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击系统粘贴按钮后才读取剪贴板；保存前可以检查和修改。"
+          }
+        }
+      }
+    },
+    "点击资料库右下角“收藏”，选择保存链接、写下文字、选择照片或导入文件。链接和文字编辑后保存；照片和文件选完即复制到本机，结果页点击完成或查看已保存资料，无需再次保存。也可在其他 App 的系统分享中选择可寻。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击资料库右下角“收藏”，选择保存链接、写下文字、选择照片或导入文件。链接和文字编辑后保存；照片和文件选完即复制到本机，结果页点击完成或查看已保存资料，无需再次保存。也可在其他 App 的系统分享中选择可寻。"
+          }
+        }
+      }
+    },
+    "点击资料库标题切换收藏夹。搜索保持当前收藏夹与筛选，多个词用空格分开时需要全部命中；可主动选择“在全部收藏中搜索”，取消搜索恢复进入前的条件。默认全部范围包含归档，回收站从设置单独进入。排序、列表/卡片与多选在右上角“更多”中。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点击资料库标题切换收藏夹。搜索保持当前收藏夹与筛选，多个词用空格分开时需要全部命中；可主动选择“在全部收藏中搜索”，取消搜索恢复进入前的条件。默认全部范围包含归档，回收站从设置单独进入。排序、列表/卡片与多选在右上角“更多”中。"
+          }
+        }
+      }
+    },
+    "照片和文件会在选择后直接保存到资料库，无需再次点击保存。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "照片和文件会在选择后直接保存到资料库，无需再次点击保存。"
+          }
+        }
+      }
+    },
+    "照片格式无法读取，未保存。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "照片格式无法读取，未保存。"
+          }
+        }
+      }
+    },
+    "相同记录跳过；同 ID 的不同内容保留为新条目，不覆盖已有内容。支持 ZIP64 大备份；记录元数据上限为 128 MiB、清单上限为 32 MiB。处理时需要足够的本地临时空间，大备份可能耗时较长。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "相同记录跳过；同 ID 的不同内容保留为新条目，不覆盖已有内容。支持 ZIP64 大备份；记录元数据上限为 128 MiB、清单上限为 32 MiB。处理时需要足够的本地临时空间，大备份可能耗时较长。"
+          }
+        }
+      }
+    },
+    "知道了": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "知道了"
+          }
+        }
+      }
+    },
+    "知道了，开始收集": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "知道了，开始收集"
+          }
+        }
+      }
+    },
+    "确定": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "确定"
+          }
+        }
+      }
+    },
+    "移入回收站": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移入回收站"
+          }
+        }
+      }
+    },
+    "移入回收站？": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移入回收站？"
+          }
+        }
+      }
+    },
+    "移入收藏夹": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移入收藏夹"
+          }
+        }
+      }
+    },
+    "移出收藏夹": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移出收藏夹"
+          }
+        }
+      }
+    },
+    "移回收集箱": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移回收集箱"
+          }
+        }
+      }
+    },
+    "移除当前收藏夹": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移除当前收藏夹"
+          }
+        }
+      }
+    },
+    "移除收藏夹？": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移除收藏夹？"
+          }
+        }
+      }
+    },
+    "空间不足或读取失败": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "空间不足或读取失败"
+          }
+        }
+      }
+    },
+    "第 %lld / %lld 处": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第 %1$lld / %2$lld 处"
+          }
+        }
+      }
+    },
+    "第 %lld 张：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第 %1$lld 张：%2$@"
+          }
+        }
+      }
+    },
+    "第 %lld 页": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "第 %lld 页"
+          }
+        }
+      }
+    },
+    "等待处理…": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "等待处理…"
+          }
+        }
+      }
+    },
+    "筛选": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "筛选"
+          }
+        }
+      }
+    },
+    "筛选 %lld": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "筛选 %lld"
+          }
+        }
+      }
+    },
+    "筛选只作用于当前收藏夹。重置不会改变收藏夹、关键词或排序。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "筛选只作用于当前收藏夹。重置不会改变收藏夹、关键词或排序。"
+          }
+        }
+      }
+    },
+    "类型": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "类型"
+          }
+        }
+      }
+    },
+    "粘贴后预览，确认再保存": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "粘贴后预览，确认再保存"
+          }
+        }
+      }
+    },
+    "粘贴链接或分享文字": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "粘贴链接或分享文字"
+          }
+        }
+      }
+    },
+    "结束搜索": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "结束搜索"
+          }
+        }
+      }
+    },
+    "继续处理": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "继续处理"
+          }
+        }
+      }
+    },
+    "继续导入": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "继续导入"
+          }
+        }
+      }
+    },
+    "继续编辑": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "继续编辑"
+          }
+        }
+      }
+    },
+    "编辑后保存": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "编辑后保存"
+          }
+        }
+      }
+    },
+    "编辑时后台识别或链接补全不会丢弃输入。保存会合并未冲突的修改；同一字段被同时修改或收藏状态改变时会提示，保留当前草稿，不会直接覆盖。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "编辑时后台识别或链接补全不会丢弃输入。保存会合并未冲突的修改；同一字段被同时修改或收藏状态改变时会提示，保留当前草稿，不会直接覆盖。"
+          }
+        }
+      }
+    },
+    "编辑正文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "编辑正文"
+          }
+        }
+      }
+    },
+    "网页声明的编码暂不支持，原链接已保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页声明的编码暂不支持，原链接已保留。"
+          }
+        }
+      }
+    },
+    "网页大小上限无效。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页大小上限无效。"
+          }
+        }
+      }
+    },
+    "网页暂不可用或内容过大，原链接已保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页暂不可用或内容过大，原链接已保留。"
+          }
+        }
+      }
+    },
+    "网页正文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页正文"
+          }
+        }
+      }
+    },
+    "网页正文 · 离线阅读": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页正文 · 离线阅读"
+          }
+        }
+      }
+    },
+    "网页正文与识别边界": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页正文与识别边界"
+          }
+        }
+      }
+    },
+    "网页正文处理未完成：%@；保存失败状态时发生错误：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页正文处理未完成：%1$@；保存失败状态时发生错误：%2$@"
+          }
+        }
+      }
+    },
+    "网页正文过长，暂不保存；原链接已保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页正文过长，暂不保存；原链接已保留。"
+          }
+        }
+      }
+    },
+    "网页编码暂不支持，原链接已保留。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页编码暂不支持，原链接已保留。"
+          }
+        }
+      }
+    },
+    "网页超过 2 MB，暂不保存正文；原链接已保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网页超过 2 MB，暂不保存正文；原链接已保留。"
+          }
+        }
+      }
+    },
+    "自动处理已暂停": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自动处理已暂停"
+          }
+        }
+      }
+    },
+    "补全内容超过大小上限。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "补全内容超过大小上限。"
+          }
+        }
+      }
+    },
+    "记录内容损坏": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "记录内容损坏"
+          }
+        }
+      }
+    },
+    "设置": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "设置"
+          }
+        }
+      }
+    },
+    "识别文本": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "识别文本"
+          }
+        }
+      }
+    },
+    "试试其他关键词或重置筛选。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "试试其他关键词或重置筛选。"
+          }
+        }
+      }
+    },
+    "试试其他关键词，或调整当前收藏夹与筛选。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "试试其他关键词，或调整当前收藏夹与筛选。"
+          }
+        }
+      }
+    },
+    "请使用恢复入口。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请使用恢复入口。"
+          }
+        }
+      }
+    },
+    "请先保存当前修改，再抓取网页正文。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请先保存当前修改，再抓取网页正文。"
+          }
+        }
+      }
+    },
+    "请先重试或明确放弃未保存项目，再选择下一批。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请先重试或明确放弃未保存项目，再选择下一批。"
+          }
+        }
+      }
+    },
+    "请检查标题、正文和收藏夹名称。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请检查标题、正文和收藏夹名称。"
+          }
+        }
+      }
+    },
+    "请输入有效的 HTTP 或 HTTPS 链接。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请输入有效的 HTTP 或 HTTPS 链接。"
+          }
+        }
+      }
+    },
+    "请选择": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请选择"
+          }
+        }
+      }
+    },
+    "请选择当前正文中要保存的链接。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请选择当前正文中要保存的链接。"
+          }
+        }
+      }
+    },
+    "请选择普通文件，不支持文件夹或符号链接。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请选择普通文件，不支持文件夹或符号链接。"
+          }
+        }
+      }
+    },
+    "请重试，当前输入会保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "请重试，当前输入会保留。"
+          }
+        }
+      }
+    },
+    "购买未完成：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "购买未完成：%@"
+          }
+        }
+      }
+    },
+    "购买正在等待确认。确认后会自动解锁，请勿重复购买。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "购买正在等待确认。确认后会自动解锁，请勿重复购买。"
+          }
+        }
+      }
+    },
+    "购买状态尚未确认，请稍后恢复购买。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "购买状态尚未确认，请稍后恢复购买。"
+          }
+        }
+      }
+    },
+    "资料保存在本机，不自动跨设备同步。换机或重新安装前，请在设置中导出备份，并保存到可寻之外。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料保存在本机，不自动跨设备同步。换机或重新安装前，请在设置中导出备份，并保存到可寻之外。"
+          }
+        }
+      }
+    },
+    "资料元数据超过变化比较的 128 MB 上限。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料元数据超过变化比较的 128 MB 上限。"
+          }
+        }
+      }
+    },
+    "资料包包含普通 Markdown 与阅读索引，不需要可寻即可阅读；它不是用于恢复的完整备份。未加密，可能含私人信息，请勿公开分享。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料包包含普通 Markdown 与阅读索引，不需要可寻即可阅读；它不是用于恢复的完整备份。未加密，可能含私人信息，请勿公开分享。"
+          }
+        }
+      }
+    },
+    "资料包已导出，可解压后打开 README.md 阅读。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料包已导出，可解压后打开 README.md 阅读。"
+          }
+        }
+      }
+    },
+    "资料只保存在本机。换机前，请到设置导出备份。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料只保存在本机。换机前，请到设置导出备份。"
+          }
+        }
+      }
+    },
+    "资料库": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料库"
+          }
+        }
+      }
+    },
+    "资料库仍在使用或恢复中，请关闭分享保存页面后重试；现有资料未被替换。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料库仍在使用或恢复中，请关闭分享保存页面后重试；现有资料未被替换。"
+          }
+        }
+      }
+    },
+    "资料库会话锁不可用，请稍后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料库会话锁不可用，请稍后重试。"
+          }
+        }
+      }
+    },
+    "资料库位置记录损坏，请从备份恢复；不会回退为空库。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料库位置记录损坏，请从备份恢复；不会回退为空库。"
+          }
+        }
+      }
+    },
+    "资料库位置记录版本不受支持，请升级可寻。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料库位置记录版本不受支持，请升级可寻。"
+          }
+        }
+      }
+    },
+    "资料库已可正常读取，请使用普通备份恢复合并内容。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料库已可正常读取，请使用普通备份恢复合并内容。"
+          }
+        }
+      }
+    },
+    "资料库指针已切换，但目录同步未确认。请重新打开检查；旧目录和恢复目录均保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料库指针已切换，但目录同步未确认。请重新打开检查；旧目录和恢复目录均保留。"
+          }
+        }
+      }
+    },
+    "资料库无法读取时不要卸载，也不要清除应用数据。先重试打开；仍失败可用完整备份进行故障恢复，旧故障目录会保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料库无法读取时不要卸载，也不要清除应用数据。先重试打开；仍失败可用完整备份进行故障恢复，旧故障目录会保留。"
+          }
+        }
+      }
+    },
+    "资料库读取失败": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料库读取失败"
+          }
+        }
+      }
+    },
+    "资料范围": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "资料范围"
+          }
+        }
+      }
+    },
+    "载入最新内容": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "载入最新内容"
+          }
+        }
+      }
+    },
+    "载入最新内容将放弃本次未保存的修改，是否继续？": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "载入最新内容将放弃本次未保存的修改，是否继续？"
+          }
+        }
+      }
+    },
+    "载入最新内容将放弃本次未保存的标题和备注，是否继续？": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "载入最新内容将放弃本次未保存的标题和备注，是否继续？"
+          }
+        }
+      }
+    },
+    "输入新名称即可在保存时分组，最多 40 个字符；空收藏夹不保留。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "输入新名称即可在保存时分组，最多 40 个字符；空收藏夹不保留。"
+          }
+        }
+      }
+    },
+    "还有 %lld 项未保存": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "还有 %lld 项未保存"
+          }
+        }
+      }
+    },
+    "还有 %lld 项未保存，重试不会重复导入成功项。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "还有 %lld 项未保存，重试不会重复导入成功项。"
+          }
+        }
+      }
+    },
+    "还有项目未保存": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "还有项目未保存"
+          }
+        }
+      }
+    },
+    "这不表示资料为空。不会自动清空或重建资料，请勿卸载应用。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这不表示资料为空。不会自动清空或重建资料，请勿卸载应用。"
+          }
+        }
+      }
+    },
+    "这个链接已经收下过了": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这个链接已经收下过了"
+          }
+        }
+      }
+    },
+    "这个链接已经收下过了。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这个链接已经收下过了。"
+          }
+        }
+      }
+    },
+    "这条收藏已不存在，请关闭详情后刷新。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这条收藏已不存在，请关闭详情后刷新。"
+          }
+        }
+      }
+    },
+    "这条收藏已不存在，请刷新后重试。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这条收藏已不存在，请刷新后重试。"
+          }
+        }
+      }
+    },
+    "这条收藏已有更新。当前输入尚未丢失；请载入最新内容后再编辑，避免覆盖其他修改。": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "这条收藏已有更新。当前输入尚未丢失；请载入最新内容后再编辑，避免覆盖其他修改。"
+          }
+        }
+      }
+    },
+    "退出前请选择保存或放弃；继续编辑会保留当前输入。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "退出前请选择保存或放弃；继续编辑会保留当前输入。"
+          }
+        }
+      }
+    },
+    "选完即导入": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选完即导入"
+          }
+        }
+      }
+    },
+    "选完即导入，每项单独保存，无需再点保存。单附件最大 100 MB；照片每次最多 20 张。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选完即导入，每项单独保存，无需再点保存。单附件最大 100 MB；照片每次最多 20 张。"
+          }
+        }
+      }
+    },
+    "选择保存位置": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择保存位置"
+          }
+        }
+      }
+    },
+    "选择备份并恢复": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择备份并恢复"
+          }
+        }
+      }
+    },
+    "选择已有收藏夹": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择已有收藏夹"
+          }
+        }
+      }
+    },
+    "选择照片": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择照片"
+          }
+        }
+      }
+    },
+    "选择要保存的链接": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择要保存的链接"
+          }
+        }
+      }
+    },
+    "通用导出使用已保存内容，请先保存修改。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用导出使用已保存内容，请先保存修改。"
+          }
+        }
+      }
+    },
+    "通用资料包不能用于可寻备份恢复，也不会更新上方完整备份时间。迁机请使用「导出备份」。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用资料包不能用于可寻备份恢复，也不会更新上方完整备份时间。迁机请使用「导出备份」。"
+          }
+        }
+      }
+    },
+    "通用资料包已导出，可解压后打开 README.md 阅读。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用资料包已导出，可解压后打开 README.md 阅读。"
+          }
+        }
+      }
+    },
+    "通用资料导出 · 免费": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用资料导出 · 免费"
+          }
+        }
+      }
+    },
+    "通用资料导出为可解压阅读的 Markdown 与原始附件，支持整库、单条和多选；它不是用于恢复的完整备份。两类导出都免费、未加密，请妥善保管私人内容。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "通用资料导出为可解压阅读的 Markdown 与原始附件，支持整库、单条和多选；它不是用于恢复的完整备份。两类导出都免费、未加密，请妥善保管私人内容。"
+          }
+        }
+      }
+    },
+    "重命名当前收藏夹": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重命名当前收藏夹"
+          }
+        }
+      }
+    },
+    "重命名收藏夹": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重命名收藏夹"
+          }
+        }
+      }
+    },
+    "重新打开资料库": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新打开资料库"
+          }
+        }
+      }
+    },
+    "重置筛选": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重置筛选"
+          }
+        }
+      }
+    },
+    "重试准备附件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重试准备附件"
+          }
+        }
+      }
+    },
+    "重试提取": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重试提取"
+          }
+        }
+      }
+    },
+    "重试未保存项目": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重试未保存项目"
+          }
+        }
+      }
+    },
+    "重试自动处理": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重试自动处理"
+          }
+        }
+      }
+    },
+    "重试补全": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重试补全"
+          }
+        }
+      }
+    },
+    "重试读取": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重试读取"
+          }
+        }
+      }
+    },
+    "链接": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "链接"
+          }
+        }
+      }
+    },
+    "链接信息": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "链接信息"
+          }
+        }
+      }
+    },
+    "链接信息已补全。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "链接信息已补全。"
+          }
+        }
+      }
+    },
+    "链接默认保存网址及来源附带文字，联网补全标题和封面。详情中的「保存网页正文」按需抓取公开网页的纯文本；成功后不联网也能阅读和搜索。更新失败保留之前的副本。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "链接默认保存网址及来源附带文字，联网补全标题和封面。详情中的「保存网页正文」按需抓取公开网页的纯文本；成功后不联网也能阅读和搜索。更新失败保留之前的副本。"
+          }
+        }
+      }
+    },
+    "阅读已保存正文": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "阅读已保存正文"
+          }
+        }
+      }
+    },
+    "附件 ID 冲突过多，未改变现有资料。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件 ID 冲突过多，未改变现有资料。"
+          }
+        }
+      }
+    },
+    "附件合计": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件合计"
+          }
+        }
+      }
+    },
+    "附件复制校验失败。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件复制校验失败。"
+          }
+        }
+      }
+    },
+    "附件存储未打开": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件存储未打开"
+          }
+        }
+      }
+    },
+    "附件存储锁不可用。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件存储锁不可用。"
+          }
+        }
+      }
+    },
+    "附件导入状态检查失败。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件导入状态检查失败。"
+          }
+        }
+      }
+    },
+    "附件已导出。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件已导出。"
+          }
+        }
+      }
+    },
+    "附件引用无效。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件引用无效。"
+          }
+        }
+      }
+    },
+    "附件所属收藏已删除或更改，请重新打开详情。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件所属收藏已删除或更改，请重新打开详情。"
+          }
+        }
+      }
+    },
+    "附件整理未完成：%@ 现有收藏仍可使用。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件整理未完成：%@ 现有收藏仍可使用。"
+          }
+        }
+      }
+    },
+    "附件暂时无法打开：%@": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件暂时无法打开：%@"
+          }
+        }
+      }
+    },
+    "附件目录不安全，未进行整理。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件目录不安全，未进行整理。"
+          }
+        }
+      }
+    },
+    "附件缺失或损坏，未导出不完整备份。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件缺失或损坏，未导出不完整备份。"
+          }
+        }
+      }
+    },
+    "附件缺失或损坏，未导出不完整资料包。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件缺失或损坏，未导出不完整资料包。"
+          }
+        }
+      }
+    },
+    "附件超过 100 MB，未保存。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件超过 100 MB，未保存。"
+          }
+        }
+      }
+    },
+    "附件路径不安全。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件路径不安全。"
+          }
+        }
+      }
+    },
+    "附件路径无效。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "附件路径无效。"
+          }
+        }
+      }
+    },
+    "随手收下，需要时找回": {
+      "extractionState": "stale",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "随手收下，需要时找回"
+          }
+        }
+      }
+    },
+    "隐私与数据": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "隐私与数据"
+          }
+        }
+      }
+    },
+    "页码定位暂支持 32 MB 以内的 PDF；仍可查看下方已保存的识别文本。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "页码定位暂支持 32 MB 以内的 PDF；仍可查看下方已保存的识别文本。"
+          }
+        }
+      }
+    },
+    "页码定位暂支持 32 MB 以内的普通 PDF 文件；仍可查看下方已保存的识别文本。": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "页码定位暂支持 32 MB 以内的普通 PDF 文件；仍可查看下方已保存的识别文本。"
+          }
+        }
+      }
+    },
+    "预览附件": {
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "预览附件"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

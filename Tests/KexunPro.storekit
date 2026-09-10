@@ -1,0 +1,16 @@
+{
+  "identifier": "KEXUN-LOCAL-PRO",
+  "nonRenewingSubscriptions": [],
+  "products": [{
+    "displayPrice": "22",
+    "familyShareable": false,
+    "internalID": "1000001",
+    "localizations": [{"description": "永久解锁收藏数量限制", "displayName": "可寻 Pro · 永久版", "locale": "zh_CN"}],
+    "productID": "com.wangxp.Kexun.pro.lifetime",
+    "referenceName": "Kexun Pro Lifetime",
+    "type": "NonConsumable"
+  }],
+  "settings": {"_failTransactionsEnabled": false, "_locale": "zh_CN", "_storefront": "CHN"},
+  "subscriptionGroups": [],
+  "version": {"major": 3, "minor": 0}
+}

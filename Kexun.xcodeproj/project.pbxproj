@@ -1,0 +1,768 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A10000000000000000000012 /* KexunShare/ShareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000002 /* KexunShare/ShareViewController.swift */; };
+		A10000000000000000000013 /* Kexun/Core/CollectionRecord.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000003 /* Kexun/Core/CollectionRecord.swift */; };
+		A10000000000000000000014 /* Kexun/Core/CollectionRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000004 /* Kexun/Core/CollectionRepository.swift */; };
+		A10000000000000000000015 /* Kexun/Core/AttachmentStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000005 /* Kexun/Core/AttachmentStore.swift */; };
+		A10000000000000000000016 /* Kexun/Core/SharedStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000006 /* Kexun/Core/SharedStorage.swift */; };
+		A10000000000000000000017 /* KexunShare.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = A10000000000000000000001 /* KexunShare.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		A10000000000000000000018 /* Kexun/Core/BoundedCallback.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000008 /* Kexun/Core/BoundedCallback.swift */; };
+		A10000000000000000000019 /* KexunShare/PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = A10000000000000000000009 /* KexunShare/PrivacyInfo.xcprivacy */; };
+		A1000000000000000000001A /* Kexun/Core/ShareInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000000000000000000000A /* Kexun/Core/ShareInput.swift */; };
+		A1000000000000000000001B /* KexunShare/Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = A1000000000000000000000B /* KexunShare/Localizable.xcstrings */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A10000000000000000000024 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C861EEF4304BC28F00BBF2F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A10000000000000000000030;
+			remoteInfo = KexunShare;
+		};
+		C861EF0C304BC29100BBF2F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C861EEF4304BC28F00BBF2F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C861EEFB304BC28F00BBF2F0;
+			remoteInfo = Kexun;
+		};
+		C861EF16304BC29100BBF2F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C861EEF4304BC28F00BBF2F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C861EEFB304BC28F00BBF2F0;
+			remoteInfo = Kexun;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A10000000000000000000023 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				A10000000000000000000017 /* KexunShare.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		A10000000000000000000001 /* KexunShare.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; path = KexunShare.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		A10000000000000000000002 /* KexunShare/ShareViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KexunShare/ShareViewController.swift; sourceTree = SOURCE_ROOT; };
+		A10000000000000000000003 /* Kexun/Core/CollectionRecord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kexun/Core/CollectionRecord.swift; sourceTree = SOURCE_ROOT; };
+		A10000000000000000000004 /* Kexun/Core/CollectionRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kexun/Core/CollectionRepository.swift; sourceTree = SOURCE_ROOT; };
+		A10000000000000000000005 /* Kexun/Core/AttachmentStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kexun/Core/AttachmentStore.swift; sourceTree = SOURCE_ROOT; };
+		A10000000000000000000006 /* Kexun/Core/SharedStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kexun/Core/SharedStorage.swift; sourceTree = SOURCE_ROOT; };
+		A10000000000000000000008 /* Kexun/Core/BoundedCallback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kexun/Core/BoundedCallback.swift; sourceTree = SOURCE_ROOT; };
+		A10000000000000000000009 /* KexunShare/PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = KexunShare/PrivacyInfo.xcprivacy; sourceTree = SOURCE_ROOT; };
+		A1000000000000000000000A /* Kexun/Core/ShareInput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kexun/Core/ShareInput.swift; sourceTree = SOURCE_ROOT; };
+		A1000000000000000000000B /* KexunShare/Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = KexunShare/Localizable.xcstrings; sourceTree = SOURCE_ROOT; };
+		C861EEFC304BC28F00BBF2F0 /* Kexun.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Kexun.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C861EF0B304BC29100BBF2F0 /* KexunTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KexunTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C861EF15304BC29100BBF2F0 /* KexunUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KexunUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		C861EEFE304BC28F00BBF2F0 /* Kexun */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Kexun;
+			sourceTree = "<group>";
+		};
+		C861EF0E304BC29100BBF2F0 /* KexunTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = KexunTests;
+			sourceTree = "<group>";
+		};
+		C861EF18304BC29100BBF2F0 /* KexunUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = KexunUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A10000000000000000000021 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C861EEF9304BC28F00BBF2F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C861EF08304BC29100BBF2F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C861EF12304BC29100BBF2F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A10000000000000000000034 /* Share Extension */ = {
+			isa = PBXGroup;
+			children = (
+				A10000000000000000000002 /* KexunShare/ShareViewController.swift */,
+				A1000000000000000000000B /* KexunShare/Localizable.xcstrings */,
+				A10000000000000000000003 /* Kexun/Core/CollectionRecord.swift */,
+				A10000000000000000000004 /* Kexun/Core/CollectionRepository.swift */,
+				A10000000000000000000005 /* Kexun/Core/AttachmentStore.swift */,
+				A10000000000000000000006 /* Kexun/Core/SharedStorage.swift */,
+			);
+			name = "Share Extension";
+			sourceTree = "<group>";
+		};
+		C861EEF3304BC28F00BBF2F0 = {
+			isa = PBXGroup;
+			children = (
+				C861EEFE304BC28F00BBF2F0 /* Kexun */,
+				A10000000000000000000034 /* Share Extension */,
+				C861EF0E304BC29100BBF2F0 /* KexunTests */,
+				C861EF18304BC29100BBF2F0 /* KexunUITests */,
+				C861EEFD304BC28F00BBF2F0 /* Products */,
+				C861EFB5304BED7000BBF2F0 /* Recovered References */,
+			);
+			sourceTree = "<group>";
+		};
+		C861EEFD304BC28F00BBF2F0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C861EEFC304BC28F00BBF2F0 /* Kexun.app */,
+				A10000000000000000000001 /* KexunShare.appex */,
+				C861EF0B304BC29100BBF2F0 /* KexunTests.xctest */,
+				C861EF15304BC29100BBF2F0 /* KexunUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C861EFB5304BED7000BBF2F0 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				A10000000000000000000008 /* Kexun/Core/BoundedCallback.swift */,
+				A1000000000000000000000A /* Kexun/Core/ShareInput.swift */,
+				A10000000000000000000009 /* KexunShare/PrivacyInfo.xcprivacy */,
+			);
+			name = "Recovered References";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A10000000000000000000030 /* KexunShare */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A10000000000000000000033 /* Build configuration list for PBXNativeTarget "KexunShare" */;
+			buildPhases = (
+				A10000000000000000000020 /* Sources */,
+				A10000000000000000000021 /* Frameworks */,
+				A10000000000000000000022 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KexunShare;
+			productName = KexunShare;
+			productReference = A10000000000000000000001 /* KexunShare.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		C861EEFB304BC28F00BBF2F0 /* Kexun */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C861EF1F304BC29100BBF2F0 /* Build configuration list for PBXNativeTarget "Kexun" */;
+			buildPhases = (
+				C861EEF8304BC28F00BBF2F0 /* Sources */,
+				C861EEF9304BC28F00BBF2F0 /* Frameworks */,
+				C861EEFA304BC28F00BBF2F0 /* Resources */,
+				A10000000000000000000023 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A10000000000000000000025 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C861EEFE304BC28F00BBF2F0 /* Kexun */,
+			);
+			name = Kexun;
+			packageProductDependencies = (
+			);
+			productName = Kexun;
+			productReference = C861EEFC304BC28F00BBF2F0 /* Kexun.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C861EF0A304BC29100BBF2F0 /* KexunTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C861EF22304BC29100BBF2F0 /* Build configuration list for PBXNativeTarget "KexunTests" */;
+			buildPhases = (
+				C861EF07304BC29100BBF2F0 /* Sources */,
+				C861EF08304BC29100BBF2F0 /* Frameworks */,
+				C861EF09304BC29100BBF2F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C861EF0D304BC29100BBF2F0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C861EF0E304BC29100BBF2F0 /* KexunTests */,
+			);
+			name = KexunTests;
+			packageProductDependencies = (
+			);
+			productName = KexunTests;
+			productReference = C861EF0B304BC29100BBF2F0 /* KexunTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C861EF14304BC29100BBF2F0 /* KexunUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C861EF25304BC29100BBF2F0 /* Build configuration list for PBXNativeTarget "KexunUITests" */;
+			buildPhases = (
+				C861EF11304BC29100BBF2F0 /* Sources */,
+				C861EF12304BC29100BBF2F0 /* Frameworks */,
+				C861EF13304BC29100BBF2F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C861EF17304BC29100BBF2F0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C861EF18304BC29100BBF2F0 /* KexunUITests */,
+			);
+			name = KexunUITests;
+			packageProductDependencies = (
+			);
+			productName = KexunUITests;
+			productReference = C861EF15304BC29100BBF2F0 /* KexunUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C861EEF4304BC28F00BBF2F0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2660;
+				LastUpgradeCheck = 2660;
+				TargetAttributes = {
+					C861EEFB304BC28F00BBF2F0 = {
+						CreatedOnToolsVersion = 26.6;
+					};
+					C861EF0A304BC29100BBF2F0 = {
+						CreatedOnToolsVersion = 26.6;
+						TestTargetID = C861EEFB304BC28F00BBF2F0;
+					};
+					C861EF14304BC29100BBF2F0 = {
+						CreatedOnToolsVersion = 26.6;
+						TestTargetID = C861EEFB304BC28F00BBF2F0;
+					};
+				};
+			};
+			buildConfigurationList = C861EEF7304BC28F00BBF2F0 /* Build configuration list for PBXProject "Kexun" */;
+			developmentRegion = "zh-Hans";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				"zh-Hans",
+				en,
+				Base,
+			);
+			mainGroup = C861EEF3304BC28F00BBF2F0;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = C861EEFD304BC28F00BBF2F0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A10000000000000000000030 /* KexunShare */,
+				C861EEFB304BC28F00BBF2F0 /* Kexun */,
+				C861EF0A304BC29100BBF2F0 /* KexunTests */,
+				C861EF14304BC29100BBF2F0 /* KexunUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A10000000000000000000022 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000000000000000000019 /* KexunShare/PrivacyInfo.xcprivacy in Resources */,
+				A1000000000000000000001B /* KexunShare/Localizable.xcstrings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C861EEFA304BC28F00BBF2F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C861EF09304BC29100BBF2F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C861EF13304BC29100BBF2F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A10000000000000000000020 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A10000000000000000000012 /* KexunShare/ShareViewController.swift in Sources */,
+				A1000000000000000000001A /* Kexun/Core/ShareInput.swift in Sources */,
+				A10000000000000000000013 /* Kexun/Core/CollectionRecord.swift in Sources */,
+				A10000000000000000000014 /* Kexun/Core/CollectionRepository.swift in Sources */,
+				A10000000000000000000015 /* Kexun/Core/AttachmentStore.swift in Sources */,
+				A10000000000000000000016 /* Kexun/Core/SharedStorage.swift in Sources */,
+				A10000000000000000000018 /* Kexun/Core/BoundedCallback.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C861EEF8304BC28F00BBF2F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C861EF07304BC29100BBF2F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C861EF11304BC29100BBF2F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A10000000000000000000025 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A10000000000000000000030 /* KexunShare */;
+			targetProxy = A10000000000000000000024 /* PBXContainerItemProxy */;
+		};
+		C861EF0D304BC29100BBF2F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C861EEFB304BC28F00BBF2F0 /* Kexun */;
+			targetProxy = C861EF0C304BC29100BBF2F0 /* PBXContainerItemProxy */;
+		};
+		C861EF17304BC29100BBF2F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C861EEFB304BC28F00BBF2F0 /* Kexun */;
+			targetProxy = C861EF16304BC29100BBF2F0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A10000000000000000000031 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = Kexun/Kexun.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R7393T722T;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = KexunShare/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wangxp.Kexun.Share;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A10000000000000000000032 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = Kexun/Kexun.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R7393T722T;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = KexunShare/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wangxp.Kexun.Share;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C861EF1D304BC29100BBF2F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C861EF1E304BC29100BBF2F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C861EF20304BC29100BBF2F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Kexun/Kexun.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R7393T722T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wangxp.Kexun;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C861EF21304BC29100BBF2F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Kexun/Kexun.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R7393T722T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wangxp.Kexun;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C861EF23304BC29100BBF2F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wangxp.KexunTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Kexun.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Kexun";
+			};
+			name = Debug;
+		};
+		C861EF24304BC29100BBF2F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wangxp.KexunTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Kexun.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Kexun";
+			};
+			name = Release;
+		};
+		C861EF26304BC29100BBF2F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wangxp.KexunUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Kexun;
+			};
+			name = Debug;
+		};
+		C861EF27304BC29100BBF2F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wangxp.KexunUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Kexun;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A10000000000000000000033 /* Build configuration list for PBXNativeTarget "KexunShare" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A10000000000000000000031 /* Debug */,
+				A10000000000000000000032 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C861EEF7304BC28F00BBF2F0 /* Build configuration list for PBXProject "Kexun" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C861EF1D304BC29100BBF2F0 /* Debug */,
+				C861EF1E304BC29100BBF2F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C861EF1F304BC29100BBF2F0 /* Build configuration list for PBXNativeTarget "Kexun" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C861EF20304BC29100BBF2F0 /* Debug */,
+				C861EF21304BC29100BBF2F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C861EF22304BC29100BBF2F0 /* Build configuration list for PBXNativeTarget "KexunTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C861EF23304BC29100BBF2F0 /* Debug */,
+				C861EF24304BC29100BBF2F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C861EF25304BC29100BBF2F0 /* Build configuration list for PBXNativeTarget "KexunUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C861EF26304BC29100BBF2F0 /* Debug */,
+				C861EF27304BC29100BBF2F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C861EEF4304BC28F00BBF2F0 /* Project object */;
+}
